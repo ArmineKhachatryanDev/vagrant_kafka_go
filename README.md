@@ -55,7 +55,7 @@ Start the virtual machine:
 
 Connect to the virtual machine via ssh:
 
-     $ vagrant ssh
+     $ vagrant ssh zookeeper1
 
 Try it out!
 
